@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/beautiful-react-calculator/static/css/main.a7beefd7.chunk.css",
+    "main.js": "/beautiful-react-calculator/static/js/main.99287f05.chunk.js",
+    "main.js.map": "/beautiful-react-calculator/static/js/main.99287f05.chunk.js.map",
+    "runtime-main.js": "/beautiful-react-calculator/static/js/runtime-main.64efd126.js",
+    "runtime-main.js.map": "/beautiful-react-calculator/static/js/runtime-main.64efd126.js.map",
+    "static/js/2.2418a79e.chunk.js": "/beautiful-react-calculator/static/js/2.2418a79e.chunk.js",
+    "static/js/2.2418a79e.chunk.js.map": "/beautiful-react-calculator/static/js/2.2418a79e.chunk.js.map",
+    "index.html": "/beautiful-react-calculator/index.html",
+    "static/css/main.a7beefd7.chunk.css.map": "/beautiful-react-calculator/static/css/main.a7beefd7.chunk.css.map",
+    "static/js/2.2418a79e.chunk.js.LICENSE.txt": "/beautiful-react-calculator/static/js/2.2418a79e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64efd126.js",
+    "static/js/2.2418a79e.chunk.js",
+    "static/css/main.a7beefd7.chunk.css",
+    "static/js/main.99287f05.chunk.js"
+  ]
+}
